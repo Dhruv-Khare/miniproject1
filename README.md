@@ -1,1 +1,1 @@
-# miniproject1
+# Responsive Ecommerce Website Using HTML CSS JAVASCRIPT
