@@ -105,7 +105,7 @@ Navigation
   top: 0;
   left: 0;
   width: 100%;
-  background-color: var(--white);
+  background-color: var(--grey3);
   z-index: 1200;
 }
 
@@ -352,7 +352,7 @@ Hero Area
 .hero .glide__bullet {
   background-color: #222;
   width: 1.2rem;
-  height: 1.2rem;
+  height: 1.2rem; 
 }
 
 .hero .glide__arrow {
